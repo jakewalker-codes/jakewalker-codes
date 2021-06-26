@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jakewalker-codes
-- 👀 I’m interested in data analytics and data engineering with SQL and Python.
-- 🌱 I’m currently learning about Microsoft Azure, I am also learning MSBI suite (SSRS, SSIS and SSAS)
-- 💞️ I’m not looking to collaborate on anything right now.
+- 👀 I’m interested in software development and data engineering with SQL and Python.
+- 🌱 I’m currently learning about Microsoft Azure, SSIS and Django.
 - 📫 My email address is jakewalker.codes@gmail.com
 
 <!---
